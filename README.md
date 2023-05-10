@@ -180,7 +180,7 @@ I would like to thank Microverse and mentors.
 
 ## 📝 License <a name="license"></a>
 
-<p align="right">(<a href="portifolio-setup-desktop-version
+<p align="right">(<a href="
 /LICENSE
 ">LICENSE</a>)</p>
 
