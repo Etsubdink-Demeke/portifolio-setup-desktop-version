@@ -180,7 +180,7 @@ I would like to thank Microverse and mentors.
 
 ## 📝 License <a name="license"></a>
 
-      <a href="#LICENSE"></a>
+      <p>(<a href="#/LICENSE"></a>)</p>
 
 
 
