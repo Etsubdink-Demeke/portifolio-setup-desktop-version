@@ -174,7 +174,7 @@ I would like to thank Microverse and mentors.
   - It's created for educational purpose for microverse course.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<a href="#readme-top">back to top</a>
 
 <!-- LICENSE -->
 
