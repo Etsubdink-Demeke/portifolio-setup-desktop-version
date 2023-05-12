@@ -1,5 +1,10 @@
+html,
 body {
-  background-color: rgba(235, 235, 255, 1);
+  overflow-x: hidden;
+}
+
+body {
+  background-color: rgb(244, 244, 255);
   width: 100%;
   padding: 0;
   margin: 0;
@@ -25,6 +30,7 @@ header {
   justify-content: space-between;
   margin-top: -10px;
   padding: 10px 10px 10px 10px;
+  padding-top: 5%;
 }
 
 ul {
@@ -231,6 +237,7 @@ button {
   margin-left: -10px;
   margin-right: -10px;
   padding-bottom: 10%;
+  width: 100%;
 }
 
 .third-page button {
@@ -294,6 +301,7 @@ div.arrow-down {
 .work_one {
   padding-bottom: 20%;
   display: grid;
+  width: 100%;
 }
 
 hr {
@@ -423,6 +431,10 @@ ul.dropdown {
   margin-left: 5%;
 }
 
+#about_me {
+  width: 100%;
+}
+
 .screenshoot img {
   width: 90%;
   margin-top: 5%;
@@ -438,7 +450,7 @@ ul.dropdown {
 #contact-page {
   display: flex;
   background-color: white;
-  width: 450px;
+  width: 100%;
 }
 
 .contacts {
@@ -472,6 +484,7 @@ ul.dropdown {
   list-style: none;
   padding-bottom: 5em;
   padding-left: 5%;
+  width: 100%;
 }
 
 .contact-form li {
@@ -518,6 +531,7 @@ div.language ul li {
     border-radius: 0 0 0 5em;
     background-color: white;
     margin: 0;
+    width: 100%;
   }
 
   .screenshoot img {
@@ -621,11 +635,13 @@ div.language ul li {
 
   #work_two {
     display: flex;
-    background-color: rgba(235, 235, 255, 1);
+    margin-top: 5%;
+    background-color: rgb(244, 244, 255);
     flex-direction: column;
     flex-wrap: wrap;
     gap: 5em;
     justify-content: space-between;
+    width: 100%;
   }
 
   .description {
@@ -798,6 +814,10 @@ div.language ul li {
     color: #396df2;
   }
 
+  #about_me {
+    width: 100%;
+  }
+
   .aboutme_description {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -855,13 +875,13 @@ div.language ul li {
 
   #contact-page {
     background-color: white;
-    width: 1310px;
+    width: 100%;
   }
 
   .contact_container {
     background-color: rgba(96, 112, 255, 1);
     border-top-left-radius: 5em;
-    width: 1310px;
+    width: 100%;
   }
 
   .contact {
