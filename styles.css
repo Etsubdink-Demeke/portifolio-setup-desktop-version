@@ -960,6 +960,7 @@ div.language ul li {
 
   .contact-form li {
     margin: 2%;
+    width: 100%;
     padding-left: 2%;
     padding-right: 2%;
   }
